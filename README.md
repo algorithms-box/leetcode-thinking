@@ -1,2 +1,2 @@
-# leetcode-solutions
-LeetCode problems' solutions
+# leetcode-thinking
+My solutions explain to LeetCode problems.
